@@ -43,12 +43,12 @@ Using the Microsoft Entra ID admin center connected to my existing Microsoft 365
 
 | # | Section | Description |
 |---|---|---|
-| 01 | [User Creation](01-user-creation/README.md) | Created a new Entra ID user with job title, department, and usage location |
-| 02 | [Role Assignment](02-role-assignment/README.md) | Assigned Helpdesk Administrator role to simulate role-based access control |
-| 03 | [Security Group Management](03-security-group-management/README.md) | Created IT Technicians security group and added a member |
-| 04 | [Conditional Access](04-conditional-access/README.md) | Reviewed Conditional Access policy structure and if/then model |
-| 05 | [App Registration](05-app-registration/README.md) | Registered an application in Entra ID for SSO and centralized authentication |
-| 06 | [Sign-In Log Review](06-sign-in-log-review/README.md) | Audited sign-in logs to monitor authentication activity across the tenant |
+| 01 | [User Creation](01-User-Creation/README.md) | Created a new Entra ID user with job title, department, and usage location |
+| 02 | [Role Assignment](02-Role-Assignment/README.md) | Assigned Helpdesk Administrator role to simulate role-based access control |
+| 03 | [Security Group Management](03-Security-Group-Management/README.md) | Created IT Technicians security group and added a member |
+| 04 | [Conditional Access](04-Conditional-Access/README.md) | Reviewed Conditional Access policy structure and if/then model |
+| 05 | [App Registration](05-App-Registration/README.md) | Registered an application in Entra ID for SSO and centralized authentication |
+| 06 | [Sign-In Log Review](06-Sign-In-Log-Reviews/README.md) | Audited sign-in logs to monitor authentication activity across the tenant |
 
 ---
 
